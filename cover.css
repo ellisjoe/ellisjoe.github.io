@@ -63,8 +63,12 @@ body {
     height: 100%;
 }
 
+.pad {
+    padding: 15px 0px;
+}
+
 hr {
-    margin: 50px 0px;
+    margin: 20px 0px;
 }
 
 h2 {
