@@ -27,7 +27,6 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: rgba(238,238,238);
   text-align: center;
 }
 .jumbotron {
@@ -42,7 +41,7 @@ body {
     background-color: rgba(0,0,0,0.4);
 }
 .background {
-    background: #333 url("bg.jpg") no-repeat center;
+    background: url("bg.jpg") no-repeat center;
     background-size: cover;
     display: block;
     filter: blur(2px);
@@ -61,6 +60,7 @@ body {
     color: rgb(200,200,200);
     text-shadow: 0 0 1px transparent;
     font-family: sans-serif;
+    height: 100%;
 }
 
 hr {
