@@ -1,0 +1,72 @@
+---
+layout: page
+title: "Reading List"
+---
+
+### Current
+- Rogues - Patrick Radden Keefe
+
+### 2022
+- Into the Wild - Jon Krakauer
+- Visual Thinking - Temple Grandin
+- Lighter - Yung Pueblo
+- The Information - James Gleick
+- Think Like a Freak - Steven Levitt & Stephen Dubner
+- Originals - Adam Grant
+- Rebel Ideas - Matthew Syed
+- Davos Man - Peter S. Goodman
+- Evicted - Matthew Desmond
+- Janesville - Amy Goldstein
+- Why We Sleep - Matthew Walker
+- Central Banking - Joseph Wang
+- The Gift of Fear - Gavin De Becker
+- The Man Who Mistook His Wife for a Hat - Oliver Sacks
+- Beyond Order - Jordan Peterson
+- The Last Lecture - Randy Pausch
+- The Ride of a Lifetime - Robert Iger
+- An Elegant Puzzle - Will Larson
+- The Premonition - Michael Lewis
+
+### History
+- Think Again - Adam Grant
+- Essentialism - Greg McKeown
+- Start with Why - Simon Sinek
+- Man’s Search for Meaning - Viktor Frankl
+- Nudge - Richard Thaler & Cass Sunstein
+- When to Rob a Bank - Steven Levitt & Stephen Dubner
+- Freakonomics - Steven Levitt & Stephen Dubner
+- Super Freakonomics - Steven Levitt & Stephen Dubner
+- Capitlaism, Alone - Banko Milanovic
+- Designing Your Life - Bill Burnett & Dave Evans
+- Good Strategy Bad Strategy - Richard Rumelt
+- Factfulness - Anna Rosling Rönnlund, Hans Rosling, and Ola Rosling
+- ReWork - Jason Fried & David Hansson
+- Negotiation Genius - Deepak Malhotra & Max Bazerman
+- Liar’s Poker - Michael Lewis
+- The Undoing Project - Michael Lewis
+- The New New Thing - Michael Lewis
+- Boomerang - Michael Lewis
+- The Fifth Risk - Michael Lewis
+- Flash Boys - Michael Lewis
+- The Big Short - Michael Lewis
+- The Tipping Point - Malcolm Gladwell
+- Outliers - Malcolm Gladwell
+- Blink - Malcolm Gladwell
+- Talking to Strangers - Malcolm Gladwell
+- The Rosie Project - Graeme Simsion
+- The Rosie Effect - Graeme Simsion
+- The Rosie Result - Graeme Simsion
+- Good Economics for Hard Times - Abhijit Banerjee & Esther Duflo
+- Skin in the Game - Nassim Taleb
+- Atomic Habits - James Clear
+- Range - David Epstein
+- Steve Jobs - Walter Isaacson
+- Empire of Pain - Patrick Radden Keefe
+- Say Nothing - Patrick Radden Keefe
+- Billion Dollar Whale - Tom Wright & Bradley Hope
+- Chaos - James Gleick
+- Bad Blood - John Carreyrou
+- No Rules Rules - Reed Hastings & Eric Meyer
+- Billion Dollar Loser - Reeves Wiedeman
+- The Man Who Solved the Market - Gregory Zuckerman
+- Super Pumped - Mike Issac
