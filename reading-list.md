@@ -4,6 +4,9 @@ title: "Reading List"
 ---
 
 ### Current
+- Oranges - John McPhee
+
+### 2023
 - Rogues - Patrick Radden Keefe
 
 ### 2022
