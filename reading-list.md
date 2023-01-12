@@ -4,9 +4,10 @@ title: "Reading List"
 ---
 
 ### Current
-- Oranges - John McPhee
+- Elon Musk - Ashlee Vance
 
 ### 2023
+- Oranges - John McPhee
 - Rogues - Patrick Radden Keefe
 
 ### 2022
