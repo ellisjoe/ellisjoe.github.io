@@ -4,9 +4,10 @@ title: "Reading List"
 ---
 
 ### Current
-- Elon Musk - Ashlee Vance
+- Complexity: A Guided Tour - Melanie Mitchell
 
 ### 2023
+- Elon Musk - Ashlee Vance
 - Oranges - John McPhee
 - Rogues - Patrick Radden Keefe
 
