@@ -4,9 +4,10 @@ title: "Reading List"
 ---
 
 ### Current
-- Complexity: A Guided Tour - Melanie Mitchell
+- Never Split the Difference - Chris Voss
 
 ### 2023
+- Complexity: A Guided Tour - Melanie Mitchell
 - Elon Musk - Ashlee Vance
 - Oranges - John McPhee
 - Rogues - Patrick Radden Keefe
