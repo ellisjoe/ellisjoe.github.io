@@ -4,7 +4,7 @@ title: "Reading List"
 ---
 
 ### Current
-The Subtle Art of Not Giving a F*ck - Mark Manson
+- The Subtle Art of Not Giving a F*ck - Mark Manson
 
 ### 2023
 - Never Split the Difference - Chris Voss
