@@ -4,9 +4,10 @@ title: "Reading List"
 ---
 
 ### Current
-- Never Split the Difference - Chris Voss
+The Subtle Art of Not Giving a F*ck - Mark Manson
 
 ### 2023
+- Never Split the Difference - Chris Voss
 - Complexity: A Guided Tour - Melanie Mitchell
 - Elon Musk - Ashlee Vance
 - Oranges - John McPhee
