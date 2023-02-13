@@ -4,9 +4,10 @@ title: "Reading List"
 ---
 
 ### Current
-- The Subtle Art of Not Giving a F*ck - Mark Manson
+- The Psychology of Money - Morgan Housel
 
 ### 2023
+- The Subtle Art of Not Giving a F*ck - Mark Manson
 - Never Split the Difference - Chris Voss
 - Complexity: A Guided Tour - Melanie Mitchell
 - Elon Musk - Ashlee Vance
