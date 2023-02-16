@@ -4,9 +4,10 @@ title: "Reading List"
 ---
 
 ### Current
-- The Psychology of Money - Morgan Housel
+- The Quants - Scott Patterson
 
 ### 2023
+- The Psychology of Money - Morgan Housel
 - The Subtle Art of Not Giving a F*ck - Mark Manson
 - Never Split the Difference - Chris Voss
 - Complexity: A Guided Tour - Melanie Mitchell
