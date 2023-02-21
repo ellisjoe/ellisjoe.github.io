@@ -4,9 +4,10 @@ title: "Reading List"
 ---
 
 ### Current
-- The Quants - Scott Patterson
+- A Thousand Brains - Jeff Hawkins
 
 ### 2023
+- The Quants - Scott Patterson
 - The Psychology of Money - Morgan Housel
 - The Subtle Art of Not Giving a F*ck - Mark Manson
 - Never Split the Difference - Chris Voss
