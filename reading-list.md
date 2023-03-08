@@ -4,9 +4,10 @@ title: "Reading List"
 ---
 
 ### Current
-- A Thousand Brains - Jeff Hawkins
+- Chip War - Chris Miller
 
 ### 2023
+- A Thousand Brains - Jeff Hawkins
 - The Quants - Scott Patterson
 - The Psychology of Money - Morgan Housel
 - The Subtle Art of Not Giving a F*ck - Mark Manson
