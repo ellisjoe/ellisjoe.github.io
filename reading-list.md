@@ -4,9 +4,10 @@ title: "Reading List"
 ---
 
 ### Current
-- Chip War - Chris Miller
+- Cheap Land Colorado - Ted Conover
 
 ### 2023
+- Chip War - Chris Miller
 - A Thousand Brains - Jeff Hawkins
 - The Quants - Scott Patterson
 - The Psychology of Money - Morgan Housel
