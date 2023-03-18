@@ -4,9 +4,10 @@ title: "Reading List"
 ---
 
 ### Current
-- Cheap Land Colorado - Ted Conover
+- How the World Really Works - Vaclav Smil
 
 ### 2023
+- Cheap Land Colorado - Ted Conover
 - Chip War - Chris Miller
 - A Thousand Brains - Jeff Hawkins
 - The Quants - Scott Patterson
