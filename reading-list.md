@@ -4,9 +4,10 @@ title: "Reading List"
 ---
 
 ### Current
-- How the World Really Works - Vaclav Smil
+- Trillion Dollar Triage - Nick Timiraos
 
 ### 2023
+- How the World Really Works - Vaclav Smil
 - Cheap Land Colorado - Ted Conover
 - Chip War - Chris Miller
 - A Thousand Brains - Jeff Hawkins
