@@ -4,9 +4,10 @@ title: "Reading List"
 ---
 
 ### Current
-- Trillion Dollar Triage - Nick Timiraos
+- The Essence of Software - Daniel Jackson
 
 ### 2023
+- Trillion Dollar Triage - Nick Timiraos
 - How the World Really Works - Vaclav Smil
 - Cheap Land Colorado - Ted Conover
 - Chip War - Chris Miller
