@@ -4,9 +4,10 @@ title: "Reading List"
 ---
 
 ### Current
-- The Essence of Software - Daniel Jackson
+- Leadership and Self-Deception - The Arbinger Institute
 
 ### 2023
+- The Essence of Software - Daniel Jackson
 - Trillion Dollar Triage - Nick Timiraos
 - How the World Really Works - Vaclav Smil
 - Cheap Land Colorado - Ted Conover
