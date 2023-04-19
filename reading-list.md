@@ -4,9 +4,10 @@ title: "Reading List"
 ---
 
 ### Current
-- Leadership and Self-Deception - The Arbinger Institute
+- Build - Tony Fadell
 
 ### 2023
+- Leadership and Self-Deception - The Arbinger Institute
 - The Essence of Software - Daniel Jackson
 - Trillion Dollar Triage - Nick Timiraos
 - How the World Really Works - Vaclav Smil
