@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- Black Box Thinking - Matthew Syed
+- Give and Take - Adam Grant
 - The 48 Laws of Power - Robert Greene
 
 ### 2023
+- Black Box Thinking - Matthew Syed
 - Build - Tony Fadell
 - Leadership and Self-Deception - The Arbinger Institute
 - The Essence of Software - Daniel Jackson
