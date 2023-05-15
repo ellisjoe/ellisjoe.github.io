@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- Give and Take - Adam Grant
+- The Bond King - Mary Childs
 - The 48 Laws of Power - Robert Greene
 
 ### 2023
+- Give and Take - Adam Grant
 - Black Box Thinking - Matthew Syed
 - Build - Tony Fadell
 - Leadership and Self-Deception - The Arbinger Institute
