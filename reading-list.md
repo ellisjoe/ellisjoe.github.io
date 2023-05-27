@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- The Bond King - Mary Childs
+- Experiential Intelligence - Soren Kaplan
 - The 48 Laws of Power - Robert Greene
 
 ### 2023
+- The Bond King - Mary Childs
 - Give and Take - Adam Grant
 - Black Box Thinking - Matthew Syed
 - Build - Tony Fadell
