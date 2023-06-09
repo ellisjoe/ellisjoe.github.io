@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- Experiential Intelligence - Soren Kaplan
+- Notes on Complexity - Neil Theise
 - The 48 Laws of Power - Robert Greene
 
 ### 2023
+- Experiential Intelligence - Soren Kaplan
 - The Bond King - Mary Childs
 - Give and Take - Adam Grant
 - Black Box Thinking - Matthew Syed
