@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- Notes on Complexity - Neil Theise
+- The Art of Racing in the Rain - Garth Stein
 - The 48 Laws of Power - Robert Greene
 
 ### 2023
+- Notes on Complexity - Neil Theise
 - Experiential Intelligence - Soren Kaplan
 - The Bond King - Mary Childs
 - Give and Take - Adam Grant
