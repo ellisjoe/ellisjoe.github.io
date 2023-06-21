@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- The Art of Racing in the Rain - Garth Stein
+- David and Goliath - Malcolm Gladwell
 - The 48 Laws of Power - Robert Greene
 
 ### 2023
+- The Art of Racing in the Rain - Garth Stein
 - Notes on Complexity - Neil Theise
 - Experiential Intelligence - Soren Kaplan
 - The Bond King - Mary Childs
