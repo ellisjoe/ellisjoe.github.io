@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- David and Goliath - Malcolm Gladwell
+- Under the Banner of Heaven - Jon Krakauer
 - The 48 Laws of Power - Robert Greene
 
 ### 2023
+- David and Goliath - Malcolm Gladwell
 - The Art of Racing in the Rain - Garth Stein
 - Notes on Complexity - Neil Theise
 - Experiential Intelligence - Soren Kaplan
