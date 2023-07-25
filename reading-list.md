@@ -4,10 +4,12 @@ title: "Reading List"
 ---
 
 ### Current
-- Under the Banner of Heaven - Jon Krakauer
+- The Infinite Game - Simon Sinek
 - The 48 Laws of Power - Robert Greene
 
 ### 2023
+- Speed Reading - Kam Knight
+- Under the Banner of Heaven - Jon Krakauer
 - David and Goliath - Malcolm Gladwell
 - The Art of Racing in the Rain - Garth Stein
 - Notes on Complexity - Neil Theise
