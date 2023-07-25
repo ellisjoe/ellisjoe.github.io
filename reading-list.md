@@ -10,6 +10,7 @@ title: "Reading List"
 ### 2023
 - Speed Reading - Kam Knight
 - Under the Banner of Heaven - Jon Krakauer
+- Everybody Lies - Seth Stephens-Davidowitz
 - David and Goliath - Malcolm Gladwell
 - The Art of Racing in the Rain - Garth Stein
 - Notes on Complexity - Neil Theise
