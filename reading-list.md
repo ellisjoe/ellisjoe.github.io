@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- The Infinite Game - Simon Sinek
+- The Stranger - Albert Camus
 - The 48 Laws of Power - Robert Greene
 
 ### 2023
+- The Infinite Game - Simon Sinek
 - Speed Reading - Kam Knight
 - Under the Banner of Heaven - Jon Krakauer
 - Everybody Lies - Seth Stephens-Davidowitz
