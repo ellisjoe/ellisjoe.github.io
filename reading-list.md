@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- The Stranger - Albert Camus
+- We Are Bellingcat - Eliot Higgins
 - The 48 Laws of Power - Robert Greene
 
 ### 2023
+- The Stranger - Albert Camus
 - The Infinite Game - Simon Sinek
 - Speed Reading - Kam Knight
 - Under the Banner of Heaven - Jon Krakauer
