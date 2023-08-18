@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- We Are Bellingcat - Eliot Higgins
+- Wanting - Luke Burgis
 - The 48 Laws of Power - Robert Greene
 
 ### 2023
+- We Are Bellingcat - Eliot Higgins
 - The Stranger - Albert Camus
 - The Infinite Game - Simon Sinek
 - Speed Reading - Kam Knight
