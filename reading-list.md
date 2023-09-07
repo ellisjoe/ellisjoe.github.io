@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- Wanting - Luke Burgis
+- Gambler - Billy Walters
 - The 48 Laws of Power - Robert Greene
 
 ### 2023
+- Wanting - Luke Burgis
 - We Are Bellingcat - Eliot Higgins
 - The Stranger - Albert Camus
 - The Infinite Game - Simon Sinek
