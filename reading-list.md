@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- Gambler - Billy Walters
+- Economics in One Lesson - Henry Hazlitt
 - The 48 Laws of Power - Robert Greene
 
 ### 2023
+- Gambler - Billy Walters
 - Wanting - Luke Burgis
 - We Are Bellingcat - Eliot Higgins
 - The Stranger - Albert Camus
