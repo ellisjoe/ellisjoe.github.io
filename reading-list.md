@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- Economics in One Lesson - Henry Hazlitt
+- Tomorrow, and Tomorrow, and Tomorrow - Gabrielle Zevin
 - The 48 Laws of Power - Robert Greene
 
 ### 2023
+- Economics in One Lesson - Henry Hazlitt
 - Gambler - Billy Walters
 - Wanting - Luke Burgis
 - We Are Bellingcat - Eliot Higgins
