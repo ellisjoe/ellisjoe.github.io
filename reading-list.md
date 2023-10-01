@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- Tomorrow, and Tomorrow, and Tomorrow - Gabrielle Zevin
+- Thinking in Systems - Donella H. Meadows
 - The 48 Laws of Power - Robert Greene
 
 ### 2023
+- Tomorrow, and Tomorrow, and Tomorrow - Gabrielle Zevin
 - Economics in One Lesson - Henry Hazlitt
 - Gambler - Billy Walters
 - Wanting - Luke Burgis
