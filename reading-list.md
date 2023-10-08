@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- Thinking in Systems - Donella H. Meadows
+- Going Infinite - Michael Lewis
 - The 48 Laws of Power - Robert Greene
 
 ### 2023
+- Thinking in Systems - Donella H. Meadows
 - Tomorrow, and Tomorrow, and Tomorrow - Gabrielle Zevin
 - Economics in One Lesson - Henry Hazlitt
 - Gambler - Billy Walters
