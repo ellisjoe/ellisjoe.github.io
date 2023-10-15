@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- Going Infinite - Michael Lewis
+- Number Don't Lie - Vaclav Smil
 - The 48 Laws of Power - Robert Greene
 
 ### 2023
+- Going Infinite - Michael Lewis
 - Thinking in Systems - Donella H. Meadows
 - Tomorrow, and Tomorrow, and Tomorrow - Gabrielle Zevin
 - Economics in One Lesson - Henry Hazlitt
