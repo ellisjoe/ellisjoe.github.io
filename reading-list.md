@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- Number Don't Lie - Vaclav Smil
+- Stop Over Thinking - Nick Trenton
 - The 48 Laws of Power - Robert Greene
 
 ### 2023
+- Number Don't Lie - Vaclav Smil
 - Going Infinite - Michael Lewis
 - Thinking in Systems - Donella H. Meadows
 - Tomorrow, and Tomorrow, and Tomorrow - Gabrielle Zevin
