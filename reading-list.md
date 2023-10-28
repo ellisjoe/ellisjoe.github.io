@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- Stop Over Thinking - Nick Trenton
+- The $100 Startup - Chris Guillebeau
 - The 48 Laws of Power - Robert Greene
 
 ### 2023
+- Stop Over Thinking - Nick Trenton
 - Number Don't Lie - Vaclav Smil
 - Going Infinite - Michael Lewis
 - Thinking in Systems - Donella H. Meadows
