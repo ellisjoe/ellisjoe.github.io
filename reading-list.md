@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- The $100 Startup - Chris Guillebeau
+- Blood Money - Kathleen McLaughlin
 - The 48 Laws of Power - Robert Greene
 
 ### 2023
+- The $100 Startup - Chris Guillebeau
 - Stop Over Thinking - Nick Trenton
 - Number Don't Lie - Vaclav Smil
 - Going Infinite - Michael Lewis
