@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- Blood Money - Kathleen McLaughlin
+- When Genius Failed - Roger Lowenstein
 - The 48 Laws of Power - Robert Greene
 
 ### 2023
+- Blood Money - Kathleen McLaughlin
 - The $100 Startup - Chris Guillebeau
 - Stop Over Thinking - Nick Trenton
 - Number Don't Lie - Vaclav Smil
