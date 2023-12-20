@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- When Genius Failed - Roger Lowenstein
+- The Grid - Gretchen Bakke
 - The 48 Laws of Power - Robert Greene
 
 ### 2023
+- When Genius Failed - Roger Lowenstein
 - Blood Money - Kathleen McLaughlin
 - The $100 Startup - Chris Guillebeau
 - Stop Over Thinking - Nick Trenton
