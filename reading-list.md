@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- The Grid - Gretchen Bakke
+- The Founders - Jimmy Soni
 - The 48 Laws of Power - Robert Greene
 
 ### 2023
+- The Grid - Gretchen Bakke
 - When Genius Failed - Roger Lowenstein
 - Blood Money - Kathleen McLaughlin
 - The $100 Startup - Chris Guillebeau
