@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- The Founders - Jimmy Soni
+- Principles for Dealing with the Changing World Order - Ray Dalio
 - The 48 Laws of Power - Robert Greene
 
 ### 2023
+- The Founders - Jimmy Soni
 - The Grid - Gretchen Bakke
 - When Genius Failed - Roger Lowenstein
 - Blood Money - Kathleen McLaughlin
