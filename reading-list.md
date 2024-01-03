@@ -81,7 +81,7 @@ title: "Reading List"
 - When to Rob a Bank - Steven Levitt & Stephen Dubner
 - Freakonomics - Steven Levitt & Stephen Dubner
 - Super Freakonomics - Steven Levitt & Stephen Dubner
-- Capitlaism, Alone - Banko Milanovic
+- Capitlaism, Alone - Branko Milanović
 - Designing Your Life - Bill Burnett & Dave Evans
 - Good Strategy Bad Strategy - Richard Rumelt
 - Factfulness - Anna Rosling Rönnlund, Hans Rosling, and Ola Rosling
