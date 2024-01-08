@@ -7,6 +7,9 @@ title: "Reading List"
 - Principles for Dealing with the Changing World Order - Ray Dalio
 - The 48 Laws of Power - Robert Greene
 
+### 2024
+- A Philosophy of Software Design - John Ousterhout
+
 ### 2023
 - The Founders - Jimmy Soni
 - The Grid - Gretchen Bakke
