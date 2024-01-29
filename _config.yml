@@ -29,6 +29,8 @@ url: "ellisjoe.com" # the base hostname & protocol for your site, e.g. http://ex
 github_username: ellisjoe
 linkedin_username: ellisjoseph
 
+google_analytics: G-0HQER4JZQK
+
 # Build settings
 theme: minima
   # plugins:
