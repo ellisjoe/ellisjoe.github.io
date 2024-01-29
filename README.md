@@ -1,7 +1,7 @@
 Joe Ellis Personal Site
 =======================
 
-Source for [ellisjoe.com](ellisjoe.com).
+Source for [ellisjoe.com](https://ellisjoe.com).
 
 Test locally
 ------------
