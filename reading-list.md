@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- Principles for Dealing with the Changing World Order - Ray Dalio
+- “Surely You’re Joking, Mr. Feynman!” - Richard P. Feynman
 - The 48 Laws of Power - Robert Greene
 
 ### 2024
+- Principles for Dealing with the Changing World Order - Ray Dalio
 - A Philosophy of Software Design - John Ousterhout
 
 ### 2023
