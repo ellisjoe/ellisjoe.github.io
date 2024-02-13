@@ -4,6 +4,7 @@ title: "Reading List"
 ---
 
 ### Current
+- Same as Ever - Morgan Housel
 - The 48 Laws of Power - Robert Greene
 
 ### 2024
