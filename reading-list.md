@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- Same as Ever - Morgan Housel
 - The 48 Laws of Power - Robert Greene
 
 ### 2024
+- The Bomber Mafia - Malcolm Gladwell
+- Same as Ever - Morgan Housel
 - “Surely You’re Joking, Mr. Feynman!” - Richard P. Feynman
 - Principles for Dealing with the Changing World Order - Ray Dalio
 - A Philosophy of Software Design - John Ousterhout
