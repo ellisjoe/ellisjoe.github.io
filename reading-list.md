@@ -4,6 +4,7 @@ title: "Reading List"
 ---
 
 ### Current
+- Die With Zero - Bill Perkins
 - The 48 Laws of Power - Robert Greene
 
 ### 2024
