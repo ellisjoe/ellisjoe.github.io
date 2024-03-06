@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- Die With Zero - Bill Perkins
+- A Hacker's Mind - Bruce Schneier
 - The 48 Laws of Power - Robert Greene
 
 ### 2024
+- Die With Zero - Bill Perkins
 - The Bomber Mafia - Malcolm Gladwell
 - Same as Ever - Morgan Housel
 - “Surely You’re Joking, Mr. Feynman!” - Richard P. Feynman
