@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- A Hacker's Mind - Bruce Schneier
+- California Burning - Katherine Blunt
 - The 48 Laws of Power - Robert Greene
 
 ### 2024
+- A Hacker's Mind - Bruce Schneier
 - Die With Zero - Bill Perkins
 - The Bomber Mafia - Malcolm Gladwell
 - Same as Ever - Morgan Housel
