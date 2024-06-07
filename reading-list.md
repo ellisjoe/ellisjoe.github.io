@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- California Burning - Katherine Blunt
+- "What Do You Care What Other People Think?" - Richard P. Feynman
 - The 48 Laws of Power - Robert Greene
 
 ### 2024
+- California Burning - Katherine Blunt
 - A Hacker's Mind - Bruce Schneier
 - Die With Zero - Bill Perkins
 - The Bomber Mafia - Malcolm Gladwell
