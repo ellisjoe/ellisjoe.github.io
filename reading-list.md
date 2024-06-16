@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- "What Do You Care What Other People Think?" - Richard P. Feynman
+- It Doesn't Have To Be Crazy At Work - Jason Fried & David Heinemeier Hansson
 - The 48 Laws of Power - Robert Greene
 
 ### 2024
+- "What Do You Care What Other People Think?" - Richard P. Feynman
 - California Burning - Katherine Blunt
 - A Hacker's Mind - Bruce Schneier
 - Die With Zero - Bill Perkins
