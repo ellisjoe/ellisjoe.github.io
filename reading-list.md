@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- It Doesn't Have To Be Crazy At Work - Jason Fried & David Heinemeier Hansson
+- From Strength to Strength - Arthur C. Brooks
 - The 48 Laws of Power - Robert Greene
 
 ### 2024
+- It Doesn't Have To Be Crazy At Work - Jason Fried & David Heinemeier Hansson
 - "What Do You Care What Other People Think?" - Richard P. Feynman
 - California Burning - Katherine Blunt
 - A Hacker's Mind - Bruce Schneier
