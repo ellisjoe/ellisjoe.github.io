@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- From Strength to Strength - Arthur C. Brooks
+- Barons - Austin Frerick
 - The 48 Laws of Power - Robert Greene
 
 ### 2024
+- From Strength to Strength - Arthur C. Brooks
 - It Doesn't Have To Be Crazy At Work - Jason Fried & David Heinemeier Hansson
 - "What Do You Care What Other People Think?" - Richard P. Feynman
 - California Burning - Katherine Blunt
