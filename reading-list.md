@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- Barons - Austin Frerick
+- Red Notice - Bill Browder
 - The 48 Laws of Power - Robert Greene
 
 ### 2024
+- Barons - Austin Frerick
 - From Strength to Strength - Arthur C. Brooks
 - It Doesn't Have To Be Crazy At Work - Jason Fried & David Heinemeier Hansson
 - "What Do You Care What Other People Think?" - Richard P. Feynman
