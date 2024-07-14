@@ -4,10 +4,12 @@ title: "Reading List"
 ---
 
 ### Current
-- Red Notice - Bill Browder
+- Paper - Mark Kurlansky
 - The 48 Laws of Power - Robert Greene
 
 ### 2024
+- The Evolution of Cooperation - Robert Axelrod
+- Red Notice - Bill Browder
 - Barons - Austin Frerick
 - From Strength to Strength - Arthur C. Brooks
 - It Doesn't Have To Be Crazy At Work - Jason Fried & David Heinemeier Hansson
