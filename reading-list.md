@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- Paper - Mark Kurlansky
+- Six Easy Pieces - Richard P. Feynman
 - The 48 Laws of Power - Robert Greene
 
 ### 2024
+- Paper - Mark Kurlansky
 - The Evolution of Cooperation - Robert Axelrod
 - Red Notice - Bill Browder
 - Barons - Austin Frerick
