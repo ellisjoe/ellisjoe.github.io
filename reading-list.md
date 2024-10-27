@@ -8,6 +8,7 @@ title: "Reading List"
 - The 48 Laws of Power - Robert Greene
 
 ### 2024
+- Survival of the Richest - Douglas Rushkoff
 - Six Easy Pieces - Richard P. Feynman
 - Paper - Mark Kurlansky
 - The Evolution of Cooperation - Robert Axelrod
