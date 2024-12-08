@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- Built to Sell - John Warrillow
+- Project Hail Mary - Andy Weir
 - The 48 Laws of Power - Robert Greene
 
 ### 2024
+- Built to Sell - John Warrillow
 - The Panama Papers - Bastian Obermayer and Frederik Obermaier
 - Survival of the Richest - Douglas Rushkoff
 - Six Easy Pieces - Richard P. Feynman
