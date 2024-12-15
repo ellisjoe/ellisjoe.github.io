@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- Project Hail Mary - Andy Weir
+- The Algebra of Wealth - Scott Galloway
 - The 48 Laws of Power - Robert Greene
 
 ### 2024
+- Project Hail Mary - Andy Weir
 - Built to Sell - John Warrillow
 - The Panama Papers - Bastian Obermayer and Frederik Obermaier
 - Survival of the Richest - Douglas Rushkoff
