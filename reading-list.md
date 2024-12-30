@@ -4,10 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- The Algebra of Wealth - Scott Galloway
+- Station Eleven - Emily St. John Mandel
 - The 48 Laws of Power - Robert Greene
 
 ### 2024
+- The Algebra of Wealth - Scott Galloway
 - Project Hail Mary - Andy Weir
 - Built to Sell - John Warrillow
 - The Panama Papers - Bastian Obermayer and Frederik Obermaier
