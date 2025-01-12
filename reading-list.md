@@ -4,8 +4,10 @@ title: "Reading List"
 ---
 
 ### Current
+- World on the Brink - Dmitri Alperovitch
+
+### 2025
 - Station Eleven - Emily St. John Mandel
-- The 48 Laws of Power - Robert Greene
 
 ### 2024
 - The Algebra of Wealth - Scott Galloway
