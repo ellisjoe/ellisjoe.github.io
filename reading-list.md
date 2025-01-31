@@ -4,9 +4,10 @@ title: "Reading List"
 ---
 
 ### Current
-- World on the Brink - Dmitri Alperovitch
+- Killers of the Flower Moon - David Grann
 
 ### 2025
+- World on the Brink - Dmitri Alperovitch
 - Station Eleven - Emily St. John Mandel
 
 ### 2024
