@@ -4,9 +4,10 @@ title: "Reading List"
 ---
 
 ### Current
-- Killers of the Flower Moon - David Grann
+- Zen and the Art of Motorcycle Maintenance - Robert M. Pirsig
 
 ### 2025
+- Killers of the Flower Moon - David Grann
 - World on the Brink - Dmitri Alperovitch
 - Station Eleven - Emily St. John Mandel
 
