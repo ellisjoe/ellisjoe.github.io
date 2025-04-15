@@ -4,9 +4,10 @@ title: "Reading List"
 ---
 
 ### Current
-- Zen and the Art of Motorcycle Maintenance - Robert M. Pirsig
+- Who is Government - Michael Lewis
 
 ### 2025
+- Zen and the Art of Motorcycle Maintenance - Robert M. Pirsig
 - Killers of the Flower Moon - David Grann
 - World on the Brink - Dmitri Alperovitch
 - Station Eleven - Emily St. John Mandel
