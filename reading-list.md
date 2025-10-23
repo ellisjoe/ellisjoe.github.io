@@ -4,9 +4,10 @@ title: "Reading List"
 ---
 
 ### Current
-- Why Nothing Works - Marc J. Dunkelman
+- Abundance - Ezra Klein & Derek Thompson
 
 ### 2025
+- Why Nothing Works - Marc J. Dunkelman
 - Who is Government - Michael Lewis
 - Zen and the Art of Motorcycle Maintenance - Robert M. Pirsig
 - Killers of the Flower Moon - David Grann
