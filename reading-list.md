@@ -10,6 +10,7 @@ title: "Reading List"
 - Why Nothing Works - Marc J. Dunkelman
 - Who is Government - Michael Lewis
 - Zen and the Art of Motorcycle Maintenance - Robert M. Pirsig
+- Effective Rust - David Drysdale
 - Killers of the Flower Moon - David Grann
 - World on the Brink - Dmitri Alperovitch
 - Station Eleven - Emily St. John Mandel
