@@ -4,9 +4,11 @@ title: "Reading List"
 ---
 
 ### Current
-- Abundance - Ezra Klein & Derek Thompson
+- The Moscow Rules - Antonio Mendez & Jonna Mendez
 
 ### 2025
+- The Five Dysfunctions of a Team - Patrick Lencioni
+- Abundance - Ezra Klein & Derek Thompson
 - Why Nothing Works - Marc J. Dunkelman
 - Who is Government - Michael Lewis
 - Zen and the Art of Motorcycle Maintenance - Robert M. Pirsig
