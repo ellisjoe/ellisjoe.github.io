@@ -9,6 +9,7 @@ title: "Reading List"
 ### 2025
 - The Five Dysfunctions of a Team - Patrick Lencioni
 - Abundance - Ezra Klein & Derek Thompson
+- The Guardians - John Grisham
 - Why Nothing Works - Marc J. Dunkelman
 - Who is Government - Michael Lewis
 - Zen and the Art of Motorcycle Maintenance - Robert M. Pirsig
