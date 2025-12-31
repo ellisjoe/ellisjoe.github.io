@@ -4,9 +4,9 @@ title: "Reading List"
 ---
 
 ### Current
-- The Moscow Rules - Antonio Mendez & Jonna Mendez
 
 ### 2025
+- The Moscow Rules - Antonio Mendez & Jonna Mendez
 - The Five Dysfunctions of a Team - Patrick Lencioni
 - Abundance - Ezra Klein & Derek Thompson
 - The Guardians - John Grisham
