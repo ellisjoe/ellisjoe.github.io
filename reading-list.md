@@ -5,6 +5,7 @@ title: "Reading List"
 
 ### Current
 - Blind Man's Bluff - Sherry Sontag and Christopher Drew
+- Asynchronous Programming in Rust - Carl Fredrik Samson
 
 ### 2025
 - The Moscow Rules - Antonio Mendez & Jonna Mendez
