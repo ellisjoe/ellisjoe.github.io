@@ -4,7 +4,7 @@ title: "Reading List"
 ---
 
 ### Current
-- Neuromancer - William Gibson
+- The Man Who Broke Capitalism - David Gelled
 - Asynchronous Programming in Rust - Carl Fredrik Samson
 
 ### 2026
