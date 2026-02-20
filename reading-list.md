@@ -5,9 +5,9 @@ title: "Reading List"
 
 ### Current
 - The Man Who Broke Capitalism - David Gelled
-- Asynchronous Programming in Rust - Carl Fredrik Samson
 
 ### 2026
+- Asynchronous Programming in Rust - Carl Fredrik Samson
 - Blind Man's Bluff - Sherry Sontag and Christopher Drew
 
 ### 2025
