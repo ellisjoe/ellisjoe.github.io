@@ -4,11 +4,12 @@ title: "Reading List"
 ---
 
 ### Current
-- The Man Who Broke Capitalism - David Gelled
+- Too Big to Fail - Andrew Ross Sorkin
 
 ### 2026
 - Asynchronous Programming in Rust - Carl Fredrik Samson
 - Blind Man's Bluff - Sherry Sontag and Christopher Drew
+- The Man Who Broke Capitalism - David Gelled
 
 ### 2025
 - The Moscow Rules - Antonio Mendez & Jonna Mendez
