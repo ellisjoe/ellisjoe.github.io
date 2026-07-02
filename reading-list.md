@@ -7,6 +7,7 @@ title: "Reading List"
 - Too Big to Fail - Andrew Ross Sorkin
 
 ### 2026
+- The Haves and Have-Yachts - Evan Osnos
 - Asynchronous Programming in Rust - Carl Fredrik Samson
 - Blind Man's Bluff - Sherry Sontag and Christopher Drew
 - The Man Who Broke Capitalism - David Gelled
