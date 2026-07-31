@@ -4,9 +4,10 @@ title: "Reading List"
 ---
 
 ### Current
-- Too Big to Fail - Andrew Ross Sorkin
+- Don't Believe Everything You Think - Joseph Nguyen
 
 ### 2026
+- Too Big to Fail - Andrew Ross Sorkin
 - The Haves and Have-Yachts - Evan Osnos
 - Asynchronous Programming in Rust - Carl Fredrik Samson
 - Blind Man's Bluff - Sherry Sontag and Christopher Drew
