@@ -4,9 +4,10 @@ title: "Reading List"
 ---
 
 ### Current
-- Don't Believe Everything You Think - Joseph Nguyen
+- Ghost in the Wires - Kevin Mitnick
 
 ### 2026
+- Don't Believe Everything You Think - Joseph Nguyen
 - Too Big to Fail - Andrew Ross Sorkin
 - The Haves and Have-Yachts - Evan Osnos
 - Asynchronous Programming in Rust - Carl Fredrik Samson
