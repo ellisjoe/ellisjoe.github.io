@@ -4,9 +4,10 @@ title: "Reading List"
 ---
 
 ### Current
-- Ghost in the Wires - Kevin Mitnick
+- The Cuckoo's Egg - Cliff Stoll
 
 ### 2026
+- Ghost in the Wires - Kevin Mitnick
 - Don't Believe Everything You Think - Joseph Nguyen
 - Too Big to Fail - Andrew Ross Sorkin
 - The Haves and Have-Yachts - Evan Osnos
